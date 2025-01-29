@@ -3,13 +3,18 @@ I am a passionate Java Developer with a strong foundation in backend development
 
 🚀 What I Bring to the Table:
 Proficient in Java, Spring Framework (Spring Boot, Spring MVC), and Hibernate
+
 Strong knowledge of Frontend Development (JavaScript, React, Bootstrap)
+
 Experience working with Databases (MySQL, SQL, PL/SQL)
+
 Well-versed in Git, AWS, and Mockito
+
 Hands-on experience in DSA (Data Structures & Algorithms)
 
 💼 Experience:
 ✅ Completed a 3-month internship as a Java Developer at Innobytes Pvt Ltd, where I worked on backend development and database management.
+
 ✅ Built multiple projects, including full-stack applications integrating frontend and backend technologies.
 
 💡 Currently Exploring:
