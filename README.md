@@ -13,14 +13,19 @@ Hands-on experience in DSA (Data Structures & Algorithms)
 ✅ Built multiple projects, including full-stack applications integrating frontend and backend technologies.
 
 💡 Currently Exploring:
-📌 Advanced concepts in Spring Boot, Microservices, and Cloud Computing
+📌 Advanced concepts in Spring Boot, Microservices, and Cloud Computing 
+
 📌 Writing optimized and scalable RESTful APIs
+
 📌 Enhancing problem-solving skills in DSA & Competitive Programming
 
 📫 Let's Connect!
 📧 Email: ganeshbellale45@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/bellale-ganesh45/
+
 🌐 Portfolio: My Personal Portfolio https://ganeshh-portfolio.netlify.app/
+
 
 ⚡ Fun Fact: When I'm not coding, you’ll find me playing cricket 🏏 or gaming 🎮!
 <!---
