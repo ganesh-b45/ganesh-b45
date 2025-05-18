@@ -15,11 +15,11 @@ Hands-on experience in DSA (Data Structures & Algorithms)
 
 **💼 Experience:**
 
-✅ Completed a 3-month internship as a Java Developer at Innobytes Pvt Ltd, where I worked on backend development and database management.
+✅ Have a over 2 years of experience in building scalable and efficient application using java, spring boot, microservices archi and mysql database
+
+✅ Completed a 3-month internship as a Java Developer at HulkHire Tech Hydrabad, where I worked on backend development and database management.
 
 ✅ Built multiple projects, including full-stack applications integrating frontend and backend technologies.
-
-**💡 **Currently Exploring:****
 
 📌 Advanced concepts in Spring Boot, Microservices, and Cloud Computing 
 
@@ -29,9 +29,9 @@ Hands-on experience in DSA (Data Structures & Algorithms)
 
 **📫 Let's Connect!**
 
-📧 Email: ganeshbellale45@gmail.com
+📧 Email: ganesh.bellale21@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/bellale-ganesh45/
+🔗 LinkedIn: 
 
 🌐 Portfolio: My Personal Portfolio https://ganeshh-portfolio.netlify.app/
 
