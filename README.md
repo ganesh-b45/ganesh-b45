@@ -15,7 +15,7 @@ Hands-on experience in DSA (Data Structures & Algorithms)
 
 **💼 Experience:**
 
-✅ Have a over 2 years of experience in building scalable and efficient application using java, spring boot, microservices archi and mysql database
+✅ Have over a 2 years of experience in building scalable and efficient application using java, spring boot, microservices archi and mysql database
 
 ✅ Completed a 3-month internship as a Java Developer at HulkHire Tech Hydrabad, where I worked on backend development and database management.
 
